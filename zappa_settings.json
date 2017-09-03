@@ -1,0 +1,7 @@
+{
+    "dev": {
+        "app_function": "server.app",
+        "s3_bucket": "zappa-screenshot"
+        "slim_handler": true
+    }
+}
